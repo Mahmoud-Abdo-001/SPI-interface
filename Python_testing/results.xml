@@ -1,0 +1,8 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1749986432" />
+    <testcase name="test_spi_write" classname="wrapper_tb" file="/mnt/d/DDVPs/SPI/Python_testing/wrapper_tb.py" lineno="107" time="17.357654809951782" sim_time_ns="640120.001" ratio_time="36878.253889056235" />
+    <testcase name="test_spi_read" classname="wrapper_tb" file="/mnt/d/DDVPs/SPI/Python_testing/wrapper_tb.py" lineno="107" time="25.450586557388306" sim_time_ns="1520120.0009999997" ratio_time="59728.289466818154" />
+    <testcase name="test_spi_read_write" classname="wrapper_tb" file="/mnt/d/DDVPs/SPI/Python_testing/wrapper_tb.py" lineno="1" time="17.237935543060303" sim_time_ns="760120.0010000002" ratio_time="44095.76768060323" />
+  </testsuite>
+</testsuites>
